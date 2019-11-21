@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 Based on Firebase, this project can change the state of authorized gates which will be controlled by external hardware connected to the same API
 
 ### Features
